@@ -50,6 +50,7 @@ image::mainClassDiagram.png[]
 
 . Open a DOS window in the `test` folder
 . Run the `runtests.bat` script
+. If the script closes immediately after opening, add "pause" at the end of the script
 . If the script reports that there is no difference between `actual.txt` and `expected.txt`,
 the test has passed
 
